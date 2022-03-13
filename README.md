@@ -7,8 +7,14 @@
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/email
+npm install @fakerjs/email --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/email -D
 ```
 
 ## Usage
